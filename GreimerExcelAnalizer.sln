@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreimerExcelAnalizer", "GreimerExcelAnalizer\GreimerExcelAnalizer.csproj", "{3BA195B4-4980-4B22-BC1E-2C43B724F74C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA195B4-4980-4B22-BC1E-2C43B724F74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA195B4-4980-4B22-BC1E-2C43B724F74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA195B4-4980-4B22-BC1E-2C43B724F74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA195B4-4980-4B22-BC1E-2C43B724F74C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A86F11E-2894-4D68-AEB4-040250832C91}
+	EndGlobalSection
+EndGlobal
